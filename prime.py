@@ -14,10 +14,6 @@ while len(prime_numbers) < 100:
         prime_numbers.append(i)
     i += 1
 # %%
-5+3
-# %%
-prime_numbers
-# %%
 # prime_numbersの要素を出力
 for i in range(len(prime_numbers)):
     if i % 10 == 9:
